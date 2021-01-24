@@ -1,2 +1,2 @@
 # Curriculo-em-HTML
-Currículo
+Currículo do Breno Amorim Silva
